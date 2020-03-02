@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<list>
+  <view.Mesa>
+    <produtos/>
+    <status>Disponivel</status>
+    <numMesa>0</numMesa>
+  </view.Mesa>
+  <view.Mesa>
+    <produtos/>
+    <status>Disponivel</status>
+    <numMesa>1</numMesa>
+  </view.Mesa>
+  <view.Mesa>
+    <produtos/>
+    <status>Disponivel</status>
+    <numMesa>2</numMesa>
+  </view.Mesa>
+  <view.Mesa>
+    <produtos/>
+    <status>Disponivel</status>
+    <numMesa>3</numMesa>
+  </view.Mesa>
+  <view.Mesa>
+    <produtos/>
+    <status>Disponivel</status>
+    <numMesa>4</numMesa>
+  </view.Mesa>
+</list>
